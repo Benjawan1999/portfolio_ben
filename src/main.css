@@ -16,6 +16,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     min-height: 100%;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
 }
   
 .home-description {
@@ -148,4 +149,8 @@ p {
 
 #contact-bar {
     height: 180px;
+}
+
+.card {
+   background: rgba(255, 255, 255, 0.2);
 }
